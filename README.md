@@ -1,4 +1,4 @@
-#Adding a readme
+Results
 
 Adding screenshots of the sample xrays that were uploaded on the app nad checked for results
 
